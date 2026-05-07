@@ -22,8 +22,8 @@ I have ~19 years of professional experience working on the core hypervisor in Or
 🔭 Working on Project R (👀 private for now) \
 🔦 Exploring Rust and Zig for systems software \
 💬 Interested in virtualization, systems programming & software design \
-🏗️ Fan of in composable architecture, deterministic behavior, performant software
-✒️ Enjoy typography, well-crafted and to-the-point documentation
+🏗️ Fan of in composable architecture, deterministic behavior, performant software \
+✒️ Enjoy typography, well-crafted and to-the-point documentation \
 ⚒️ Tools — Zed | Ghostty | Starship | Typst | Rust | C, C++, x86 Assembly
 
 ### Personal Projects
