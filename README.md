@@ -27,4 +27,4 @@ Experience — 19 years working on the core hypervisor and internals of Oracle V
 
 &#8193;✒️&#8193;Enjoy typography, well-crafted and to-the-point documentation
 
-&#8193;⚒️&#8193;Tools — Zed | Ghostty | Starship | Typst | Rust | C | C++ | x86 Assembly
+&#8193;⚒️&#8193;Tools — Zed | Ghostty | Starship | Typst | Hugo | AsciiDoctor
