@@ -26,9 +26,3 @@ I have ~19 years of professional experience working on the core hypervisor in Or
 ✒️ Enjoy typography, well-crafted and to-the-point documentation \
 ⚒️ Tools — Zed | Ghostty | Starship | Typst | Rust | C, C++, x86 Assembly
 
-### Personal Projects
-
-* Beezer — GUI-based archive manager for Haiku OS
-* Xank — arbitrary precision expression evaluator
-* SysProCalc — expression-evaluator and x86 register formatter
-* Various systems and infrastructure experiments
