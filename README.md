@@ -23,8 +23,6 @@ Experience — 19 years working on the core hypervisor and internals of Oracle V
 
 &#8193;🔦&#8193;Exploring Rust and Zig for systems software
 
-&#8193;💬&#8193;Interested in virtualization, systems programming & software design
-
 &#8193;🏗️&#8193;Fan of composable architecture, deterministic behavior, performant software
 
 &#8193;✒️&#8193;Enjoy typography, well-crafted and to-the-point documentation
