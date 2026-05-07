@@ -15,14 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a systems software developer focused on low-level infrastructure, virtualization, platform-native and cross-platform software.
+Systems software developer — low-level infrastructure, virtualization and native software.
 
-I have ~19 years of professional experience working on the core hypervisor in Oracle VirtualBox, where I led development efforts around nested virtualization, virtual IOMMU, APIC, I/O APIC and related virtualization subsystems.
+Experience — 19 years working on the core hypervisor and internals of Oracle VirtualBox.
 
-🔭 Working on Project R (👀 private for now) \
-🔦 Exploring Rust and Zig for systems software \
-💬 Interested in virtualization, systems programming & software design \
-🏗️ Fan of in composable architecture, deterministic behavior, performant software \
-✒️ Enjoy typography, well-crafted and to-the-point documentation \
-⚒️ Tools — Zed | Ghostty | Starship | Typst | Rust | C, C++, x86 Assembly
+&#8193;🔭&#8193;Working on Project R (👀 currently private)
 
+&#8193;🔦&#8193;Exploring Rust and Zig for systems software
+
+&#8193;💬&#8193;Interested in virtualization, systems programming & software design
+
+&#8193;🏗️&#8193;Fan of composable architecture, deterministic behavior, performant software
+
+&#8193;✒️&#8193;Enjoy typography, well-crafted and to-the-point documentation
+
+&#8193;⚒️&#8193;Tools — Zed | Ghostty | Starship | Typst | Rust | C | C++ | x86 Assembly
