@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Systems software developer — low-level infrastructure, virtualization and native software. \
-Experience — 19 years working on the core hypervisor and internals of Oracle VirtualBox.
+Experience — 19 years working on the core hypervisor and internals of VirtualBox.
 
 &#8193;🔭&#8193;Working on Project R (👀 currently private)
 
