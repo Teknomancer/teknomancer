@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 Systems software developer — spent 15+ years working on the core hypervisor and internals of VirtualBox.
 
-&#8193;🔭&#8193;Now working on Project R (👀 currently private)
+&#8193;⚒️&#8193;Now working on Project R (👀 currently private)
 
-&#8193;🔦&#8193;Exploring Rust and Zig for systems software
+&#8193;🔍&#8193;Exploring Rust and Zig for systems software
 
 &#8193;⚙️&#8193;Interested in composable architectures, deterministic behavior, building high-performance software
 
 &#8193;✒️&#8193;Enjoy typography, well-crafted and to-the-point documentation
 
-&#8193;⚒️&#8193;Tools — Zed | Ghostty | Starship | Typst | Hugo | AsciiDoctor
+&#8193;🧰&#8193;Tools — Zed | Ghostty | Starship | Typst | Hugo | AsciiDoctor
 
 &#8193;💻&#8193;Languages — Rust | C | C++ | x86 Assembly
