@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Systems software developer — low-level infrastructure, virtualization and native software. \
-Experience — 19 years working on the core hypervisor and internals of VirtualBox.
+Systems software developer — 15+ years working on the core hypervisor and internals of VirtualBox.
 
 &#8193;🔭&#8193;Working on Project R (👀 currently private)
 
