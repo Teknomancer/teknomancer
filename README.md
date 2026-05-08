@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Systems software developer — 15+ years working on the core hypervisor and internals of VirtualBox.
+Systems software developer — spent 15+ years working on the core hypervisor and internals of VirtualBox.
 
 &#8193;🔭&#8193;Now working on Project R (👀 currently private)
 
