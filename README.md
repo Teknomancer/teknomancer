@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Systems software developer — 15+ years working on the core hypervisor and internals of VirtualBox.
 
-&#8193;🔭&#8193;Working on Project R (👀 currently private)
+&#8193;🔭&#8193;Now working on Project R (👀 currently private)
 
 &#8193;🔦&#8193;Exploring Rust and Zig for systems software
 
-&#8193;🏗️&#8193;Fan of composable architecture, deterministic behavior, performant software
+&#8193;⚙️&#8193;Interested in composable architectures, deterministic behavior, building high-performance software
 
 &#8193;✒️&#8193;Enjoy typography, well-crafted and to-the-point documentation
 
