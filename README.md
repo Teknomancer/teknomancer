@@ -23,7 +23,7 @@ Systems software developer — spent 15+ years working on the core hypervisor an
 
 &#8193;⚙️&#8193;Interested in composable architectures, deterministic behavior, high-performance software
 
-&#8193;✒️&#8193;Enjoy typography, well-crafted and to-the-point documentation
+&#8193;✒️&#8193;Value good typography and well-crafted, concise documentation
 
 &#8193;🧰&#8193;Tools — Zed | Ghostty | Starship | Typst | Hugo | AsciiDoctor
 
