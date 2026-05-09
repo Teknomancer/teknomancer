@@ -21,7 +21,7 @@ Systems software developer — spent 15+ years working on the core hypervisor an
 
 &#8193;🔍&#8193;Exploring Rust and Zig for systems software
 
-&#8193;⚙️&#8193;Interested in composable architectures, deterministic behavior, building high-performance software
+&#8193;⚙️&#8193;Interested in composable architectures, deterministic behavior, high-performance software
 
 &#8193;✒️&#8193;Enjoy typography, well-crafted and to-the-point documentation
 
