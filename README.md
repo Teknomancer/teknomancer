@@ -1,4 +1,4 @@
-## Hi, there! — I'm Ramshankar 👋
+## Hi, I'm Ramshankar 👋
 
 <!--
 **Teknomancer/teknomancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 Systems software developer — spent 15+ years working on the core hypervisor and internals of VirtualBox.
 
-&#8193;⚒️&#8193;Now working on Project R (currently private)
-
-&#8193;🔍&#8193;Exploring Rust and Zig for systems software
+&#8193;⚒️&#8193;Now working on **Project R** (currently private)
 
 &#8193;⚙️&#8193;Interested in composable architectures and high-performance software
 
