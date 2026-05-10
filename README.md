@@ -19,8 +19,8 @@ Systems software developer — spent 15+ years working on the core hypervisor an
 
 &#8193;⚒️&#8193;Now working on **Project R** (currently private)
 
+&#8193;💻&#8193;Languages — Rust | C | C++ | x86 Assembly
+
 &#8193;⚙️&#8193;Interested in composable architectures and high-performance software
 
 &#8193;✒️&#8193;Value good typography and well-crafted, concise documentation
-
-&#8193;💻&#8193;Languages — Rust | C | C++ | x86 Assembly
