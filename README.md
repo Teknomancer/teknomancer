@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Systems software developer — spent 15+ years working on the core hypervisor and internals of VirtualBox.
 
-&#8193;⚒️&#8193;Now working on **Project R** (currently private)
+&#8193;⚒️&#8193;Now working on Project R (currently private)
 
 &#8193;💻&#8193;Languages — Rust | C | C++ | x86 Assembly
 
